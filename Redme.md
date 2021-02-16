@@ -9,9 +9,3 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
-
-<dependency>
-  <groupId>neuro</groupId>
-  <artifactId>sdk</artifactId>
-  <version>1.0.0</version>
-</dependency> 
